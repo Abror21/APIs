@@ -1,0 +1,8 @@
+Different apis
+https://example-data.draftbit.com/
+
+Star Wars 
+https://swapi.dev/
+
+Star Wars images
+https://starwars-visualguide.com/#/
