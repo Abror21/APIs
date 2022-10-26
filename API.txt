@@ -1,3 +1,6 @@
+Random users
+https://randomuser.me/
+
 Different apis
 https://example-data.draftbit.com/
 
