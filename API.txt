@@ -9,3 +9,6 @@ https://swapi.dev/
 
 Star Wars images
 https://starwars-visualguide.com/#/
+
+User Generate
+https://mockaroo.com/
