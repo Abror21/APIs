@@ -15,3 +15,6 @@ https://mockaroo.com/
 
 Many things
 https://rapidapi.com/
+
+Fake Store API
+https://fakestoreapi.com/
